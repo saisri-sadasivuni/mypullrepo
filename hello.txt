@@ -1,8 +1,4 @@
 hello
 this is first change
-<<<<<<< HEAD
 the first date
 today is monday
-=======
-the first day
->>>>>>> parent of aaea8a3... added line
